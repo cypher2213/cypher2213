@@ -62,7 +62,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
   </a>
 </div>
 
