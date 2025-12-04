@@ -81,19 +81,23 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
   </a>
 </div>
+
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/cypher2213/">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&theme=default&bg_color=0e1118&title_color=DCE5F2&icon_color=7AC8FF&border_color=1D3F8F&custom_title=cypher2213's GitHub Stats" width="510" alt="GitHub Stats" title="GitHub Stats"/>
-</a>
+<!-- Commits -->
+![Commits](https://img.shields.io/github/commit-activity/m/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Commits)
 
-<!-- Top Languages -->
-<a href="https://github.com/cypher2213/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&hide=html,css,blade,shell&theme=default&title_color=DCE5F2&icon_color=7AC8FF&border_color=1D3F8F&bg_color=0e1118&custom_title=cypher2213's Top Languages (By File Size)" width="330" alt="Top Languages" />
-</a>
+<!-- Repositories -->
+![Repos](https://img.shields.io/github/repos/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Repos)
+
+<!-- Pull Requests -->
+![PRs](https://img.shields.io/github/issues-pr/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Pull+Requests)
+
+<!-- Last Commit -->
+![Last Commit](https://img.shields.io/github/last-commit/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Last+Commit)
 
 </div>
+
 
 <div align="center">
   <a href="#">
