@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PngItem_7136382.png" width="100" alt="Python" style="vertical-align: middle; margin-right: 10px;">
+  <img src="python-512.png" width="100" alt="Python" style="vertical-align: middle; margin-right: 10px;">
 </p>
 <p align="center" style="margin:0;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=7AC8FF&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
