@@ -82,21 +82,6 @@
   </a>
 </div>
 
-<div align="center">
-
-<!-- Commits -->
-![Commits](https://img.shields.io/github/commit-activity/m/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Commits)
-
-<!-- Repositories -->
-![Repos](https://img.shields.io/github/repos/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Repos)
-
-<!-- Pull Requests -->
-![PRs](https://img.shields.io/github/issues-pr/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Pull+Requests)
-
-<!-- Last Commit -->
-![Last Commit](https://img.shields.io/github/last-commit/cypher2213?style=for-the-badge&color=7AC8FF&labelColor=0e1118&logoColor=DCE5F2&label=Last+Commit)
-
-</div>
 
 
 <div align="center">
