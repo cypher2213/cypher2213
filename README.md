@@ -86,8 +86,9 @@
   <span style="display: inline-block;">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Until+the+next+commit%E2%80%A6" alt="Typing SVG">
   </span>
-  <span style="display: inline-block; margin-left: 20px;">
-    <img height=100% src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"  alt="GIF">
-  </span>
+  <span style="display: inline-block; margin-left: 20px; vertical-align: middle;">
+  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" style="width: 100%; height: auto;" alt="GIF">
+</span>
+
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
 </p>
