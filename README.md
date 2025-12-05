@@ -91,8 +91,3 @@
   </span>
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
 </p>
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
-  </a>
-</div>
