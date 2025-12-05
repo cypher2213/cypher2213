@@ -82,14 +82,23 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
   </a>
 </div>
-<p align="center">
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Until+the+next+commit%E2%80%A6" alt="Typing SVG" style="display: block;">
+<p align="center" style="margin:0; padding:0; line-height:0;">
+  <!-- Левый блок: typing effect -->
+  <span style="display: inline-block; vertical-align: bottom; line-height:0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Until+the+next+commit%E2%80%A6" 
+         alt="Typing SVG" 
+         style="display: block; margin:0; padding:0;">
   </span>
-  
-  <span style="display: inline-block; margin-left: 20px; vertical-align: middle;">
-    <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" style="width: 100%; height: auto; display: block;" alt="GIF">
+
+  <!-- Правый блок: GIF -->
+  <span style="display: inline-block; vertical-align: bottom; line-height:0; margin-left: 20px;">
+    <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" 
+         style="width: 100%; height: auto; display: block; margin:0; padding:0;" 
+         alt="GIF">
   </span>
-  <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render" style="display: block;">
 </p>
+
+<!-- Нижняя линия -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render" style="display:block; margin:0; padding:0;">
+
 
