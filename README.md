@@ -87,7 +87,7 @@
        alt="Typing SVG" 
        style="display: block;">
   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" 
-       style="width: auto; height: 100px; display: block;" 
+       style="width: auto; height: 300px; display: block;" 
        alt="GIF">
 </div>
 
