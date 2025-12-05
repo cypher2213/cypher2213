@@ -82,9 +82,7 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
   </a>
 </div>
-<p align="center">
-  <img src="https://tenor.com/view/genshin-genshin-impact-arlecchino-the-knave-knave-gif-3860661486897813760">
-</p>
+<div class="tenor-gif-embed" data-postid="3860661486897813760" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/genshin-genshin-impact-arlecchino-the-knave-knave-gif-3860661486897813760">Genshin Genshin Impact Sticker</a>from <a href="https://tenor.com/search/genshin-stickers">Genshin Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <div align="center">
