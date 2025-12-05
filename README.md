@@ -90,7 +90,6 @@
   <span style="display: inline-block; margin-left: 20px; vertical-align: middle;">
     <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" style="width: 100%; height: auto; display: block;" alt="GIF">
   </span>
+  <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render" style="display: block;">
 </p>
-
-<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render" style="display: block;">
 
