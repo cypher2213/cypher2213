@@ -27,7 +27,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
   </a>
 </div>
 
@@ -82,7 +82,9 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
   </a>
 </div>
-
+<p align="center">
+  <img src="https://tenor.com/view/genshin-genshin-impact-arlecchino-the-knave-knave-gif-3860661486897813760">
+</p>
 
 
 <div align="center">
