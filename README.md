@@ -83,7 +83,7 @@
   </a>
 </div>
 <p align="center">
-  <span style="display: inline-block; vertical-align: middle;">
+  <span style="display: inline-block;">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Until+the+next+commit%E2%80%A6" alt="Typing SVG">
   </span>
   <span style="display: inline-block; margin-left: 20px;">
