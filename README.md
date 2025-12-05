@@ -82,16 +82,15 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
   </a>
 </div>
-<table>
-  <tr>
-    <td>
-      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&repeat=false&width=435&lines=Until+the+next+commit%E2%80%A6)](https://git.io/typing-svg)
-    </td>
-    <td>
-      <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="200">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&repeat=false&width=435&lines=Until+the+next+commit%E2%80%A6" alt="Typing SVG">
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 20px;">
+    <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="150" alt="GIF">
+  </span>
+</p>
+
 
 
 
