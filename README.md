@@ -70,8 +70,8 @@
 
 <p align="center">
 <a href="https://github.com/cypher2213">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
