@@ -64,17 +64,23 @@
     <img src="https://skillicons.dev/icons?i=git,postman,docker" />
   </a>
 </div>
-<div align="center" style="margin: 30px 0 20px 0;">
+<div style="text-align:center; margin: 30px 0;">
   <img 
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
     height="200"
-    alt="GIF"
+    style="display:block; margin:0 auto;"
   >
 </div>
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=2&section=header&render">
-  </a>
+
+<a href="#">
+  <img 
+    width="100%" 
+    style="display:block; height:2px;" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=2&section=header&render"
+  >
+</a>
+
 
 <!-- STATS -->
 <div align="center">
