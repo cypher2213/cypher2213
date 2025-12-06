@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="python_plain_logo_icon_146379.svg" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
+  <img src="IMG_4033.PNG" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
 
 <p align="center" style="margin:0;">
