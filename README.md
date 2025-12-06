@@ -83,7 +83,7 @@
 
 <ul style="color:#d9e2f1;">
 
-  <li>🦉 Passionate about backend development, programming, and technology.</li>
+  <li>🧠 Passionate about backend development, programming, and technology.</li>
 
   <li>🔭 Backend developer focused on <b style="color:#7AC8FF;">FastAPI</b>, with additional experience in NodeJs.</li>
 
@@ -97,8 +97,8 @@
       <ul>
         <li>🦉 Night Owl — peak productivity late at night.</li>
         <li>📚 2nd-year Computer Science student.</li>
-        <li>⚙️ Люблю разбирать системы до сути — как работает, почему работает и что определяет их поведение.</li>
-        <li>💡 FastAPI / Python — моя зона эффективности.</li>
+        <li>⚙️ I love diving deep into systems to understand how everything works.</li>
+        <li>💡 FastAPI and Python are my comfort zone for building backend solutions.</li>
         <li>💻 VSCode theme: NightOwl.</li>
       </ul>
     </details>
