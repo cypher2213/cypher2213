@@ -72,7 +72,7 @@
   >
 </div>
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&section=header&render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=2&section=header&render">
   </a>
 
 <!-- STATS -->
