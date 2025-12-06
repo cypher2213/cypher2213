@@ -68,6 +68,7 @@
     <img 
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
+    height="200"
     alt="GIF"
   >
 </div>
