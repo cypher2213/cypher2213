@@ -79,7 +79,7 @@
 
 <div style="display: flex; align-items: flex-end; gap: 20px;">
   <!-- ASCII-арт -->
-  <pre style="margin:0; padding:0; font-family: monospace; font-size: 12px; line-height: 1; display: flex; width: 200px;">
+  <pre style="margin:0; padding:0; font-family: monospace; font-size: 12px; line-height: 1; display: inline-block;">
  __   ____  __    ____  ___  ___  _  _  __  __ _   __      __ ____ 
  / _\ (  _ \(  )  (  __)/ __)/ __)/ )( \(  )(  ( \ /  \    / /( __ \
 /    \ )   // (_/\ ) _)( (__( (__ ) __ ( )( /    /(  O )  ( (  (__ (
@@ -91,4 +91,5 @@
        style="width: auto; height: 120px; display: block;" 
        alt="GIF">
 </div>
+
 
