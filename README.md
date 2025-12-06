@@ -76,29 +76,24 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
-<div style="display: flex; gap: 20px; align-items: flex-end;">
-
-  <div style="display: inline-block;">
-    <pre style="
-      margin: 0;
-      padding: 0;
-      font-family: monospace;
-      font-size: 12px;
-      line-height: 1;
-    ">
+<table>
+  <tr>
+    <!-- Колонка с ASCII-артом -->
+    <td>
+      <pre style="margin:0; padding:0; font-family: monospace; font-size:12px; line-height:1;">
  __   ____  __    ____  ___  ___  _  _  __  __ _   __      
  / _\ (  _ \(  )  (  __)/ __)/ __)/ )( \(  )(  ( \ /  \    
 /    \ )   // (_/\ ) _)( (__( (__ ) __ ( )( /    /(  O ) 
 \_/\_/(__\_)\____/(____)\___)\___)\_)(_/(__)\_)__) \__/   
-    </pre>
-  </div>
+      </pre>
+    </td>
 
-  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
-       style="height: 120px; "
-       alt="gif">
-
-</div>
-
+    <!-- Колонка с GIF -->
+    <td>
+      <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" height="120" alt="GIF">
+    </td>
+  </tr>
+</table>
 
 
 
