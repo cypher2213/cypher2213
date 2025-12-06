@@ -1,82 +1,100 @@
+<p align="center">
+  <img src="python_plain_logo_icon_146379.svg" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
+</p>
+<p align="center" style="margin:0;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
+</p>
 
-<div align="center" style="background: #1A191A; color: #E5E4E3; padding: 20px; border-radius: 12px;">
+<p align="center" style="margin-top:-20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
+  </a>
+</p>
 
-  <p align="center" style="margin:0; padding:0;">
-    <img src="1de317f6-867e-48c8-b371-6f91583d2c4d.png" width="150" alt="Avatar" style="vertical-align: middle; margin-right: 10px;" />
-  </p>
 
-  <p align="center" style="margin: 0; padding-top: 10px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=E5E4E3&background=00000000&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" />
-    </a>
-  </p>
+<div align="center" style="margin-bottom: 20px;">
+  <h2>Contact me:</h2>
+  <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
+    <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://t.me/nickiv_22" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
+</div>
 
-  <p align="center" style="margin: 0; padding-top: 5px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=63595D&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+2nd year;Backend Developer;Detail-oriented;NightOwl;" alt="Typing SVG"/>
-    </a>
-  </p>
 
-  <div style="margin: 24px 0;">
-    <h2 style="color: #8C1E2D; border-bottom: 1px solid #63595D; display: inline-block; padding-bottom: 4px;">
-      Contact me:
-    </h2><br>
-    <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-      <img src="https://img.shields.io/badge/LinkedIn-8C1E2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://t.me/nickiv_22" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-8C1E2D?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </div>
 
-  <div style="margin-bottom: -20px;" align="center">
-    <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="130" alt="GIF" />
-  </div>
+<!-- Backend -->
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,nodejs,express" />
+  </a>
+</div>
 
-  <table style="width:100%; margin-top:0; border-collapse: collapse; color: #E5E4E3;">
-    <tr>
-      <th style="padding: 8px; border-bottom: 1px solid #63595D; text-align: left;">Programming Languages</th>
-      <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <th style="padding: 8px; border-bottom: 1px solid #63595D; text-align: left;">Backend Frameworks</th>
-      <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      </td>
-    </tr>
-    <tr>
-      <th style="padding: 8px; border-bottom: 1px solid #63595D; text-align: left;">Frontend</th>
-      <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/-React-00599C?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-    </tr>
-    <tr>
-      <th style="padding: 8px; border-bottom: 1px solid #63595D; text-align: left;">Databases</th>
-      <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </td>
-    </tr>
-    <tr>
-      <th style="padding: 8px; text-align: left;">Tools</th>
-      <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      </td>
-    </tr>
-  </table>
+<!-- Frontend -->
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</div>
 
-  <div style="margin-top: 40px; width:100%;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=1A191A&hide_border=true&area_color=8C1E2D&title_color=E5E4E3&line=63595D&point=8C1E2D" width="100%" alt="Contribution Graph" />
-  </div>
+<!-- Database -->
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  </a>
+</div>
 
+<!-- Tools -->
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,docker" />
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
+</div>
+<!-- STATS -->
+<div align="center">
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=00C853&title_color=AEEA00&line=AEEA00&point=00C853&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=AEEA00&icon_color=00C853&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
+
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=AEEA00&icon_color=00C853&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs"></a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
 </div>
