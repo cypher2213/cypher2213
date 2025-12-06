@@ -72,15 +72,6 @@
     src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render"
   >
 </a>
-
-<div style="text-align:center; margin: 30px 0;">
-  <img 
-    src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
-    width="130"
-    height="200"
-    style="display:block; margin:0 auto;"
-  >
-</div>
 <!-- STATS -->
 <div align="center">
   <a href="https://github.com/cypher2213/">
