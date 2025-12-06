@@ -88,6 +88,14 @@
 </div>
 
 
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
+  </a>
+</div>
+  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" 
+       style="width: auto; height: 200px; display: block;" 
+       alt="GIF">
 
 
 </p>
