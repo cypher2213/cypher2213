@@ -19,9 +19,9 @@
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
-<p align="center" style="margin-bottom:0;">
+<div style="margin-bottom:-25px;" align="center">
   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="200" height="700" alt="GIF">
-</p>
+</div>
 <table style="width:100%; margin-top:0;" align="center">
   <tr>
     <th>Programming Languages</th>
