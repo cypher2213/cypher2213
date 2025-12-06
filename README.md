@@ -84,7 +84,7 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render">
   </a>
 </div>
-<br><br><br> 
+<br><br>
 <p align="center" style="margin-top:10px;">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=cypher2213&theme=bear&showIcons=true">
     <img alt="Nikita Ivashchenko's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cypher2213?theme=bear" />
