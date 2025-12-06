@@ -19,56 +19,54 @@
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
+<table style="width:100%" align="center">
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PHP-787CB5?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-TypeScript-16213E?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Backend Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/-React-00599C?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+</table>
 
-<!-- Backend -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AC8FF&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
-  </a>
-</div>
 
-<!-- Frontend -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DCE5F2&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
-</div>
-
-<!-- Database -->
-<div align="center" style="margin-bottom: 20px; justify-content: flex-end">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AC8FF&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-  </a>
-</div>
-
-<!-- Tools -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DCE5F2&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,docker" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
-  </a>
-</div>
 
 <!-- STATS -->
 <div align="center">
