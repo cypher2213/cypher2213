@@ -10,9 +10,10 @@
 
 <p align="center" style="margin-top:-20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4D7DB&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=I’m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+—+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4D7DB&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=I'm+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English:+B2+-+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
   </a>
 </p>
+
 
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:8A1E2A;">Contact me:</h2>
