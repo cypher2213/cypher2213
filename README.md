@@ -67,27 +67,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/cypher2213">
-    <!-- GitHub Readme Stats -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&theme=react&include_all_commits=true&count_private=true&title_color=DCE5F2&icon_color=7AC8FF&text_color=DCE5F2&bg_color=0e1118"/>
-    <!-- Top Languages -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=react&title_color=DCE5F2&text_color=DCE5F2&bg_color=0e1118"/>
-  </a>
-</p>
-
-<!-- Contribution Graph -->
 <div align="center">
   <a href="https://github.com/cypher2213/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=react" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
-
-
-
-
-
 
 
 
