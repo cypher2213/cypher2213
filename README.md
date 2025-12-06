@@ -55,7 +55,7 @@
 </div>
 
 <!-- Tools -->
-<div align="center" style="margin-bottom: 50px;">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1E2A&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
   </a>
@@ -64,21 +64,13 @@
     <img src="https://skillicons.dev/icons?i=git,postman,docker" />
   </a>
 </div>
-
-
-
-
-<div  align="center" style="margin:0; padding:0; line-height:0;margin-top:30;">
+<div align="center" style="margin:0; padding:0; line-height:0;margin-top:30px;">
     <img 
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
     alt="GIF"
   >
 </div>
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3"
-    style="display:block; margin:0; padding:0;">
-
   <a href="#">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render">
   </a>
