@@ -85,4 +85,11 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=cypher2213&theme=bear&showIcons=true">
+    <img alt="Nikita Ivashchenko's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cypher2213?theme=bear" />
+  </a>
+</p>
+
+
 
