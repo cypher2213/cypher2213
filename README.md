@@ -19,6 +19,7 @@
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
+<p align="center"><img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"  width="100" alt="GIF"></p>
 <table style="width:100%" align="center">
   <tr>
     <th>Programming Languages</th>
@@ -82,7 +83,6 @@
         <li> ⚙️ I love diving deep into systems to understand how everything works.</li>  
         <li>💡 FastAPI and Python are my comfort zone for building backend solutions.</li>
         <li>💻 VSCode theme: <b>NightOwl</b>, perfect for late-night coding sessions.</li>
-        <li> I love Arlechino   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"  width="100" alt="GIF"></li>
       </ul>
     </details>
   </li>
