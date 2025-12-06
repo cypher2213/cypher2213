@@ -64,8 +64,8 @@
     <img src="https://skillicons.dev/icons?i=git,postman,docker" />
   </a>
 </div>
-<div align="center" style="margin:0; padding:0; line-height:0;margin-top:30px;">
-    <img 
+<div align="center" style="margin: 30px 0 20px 0;">
+  <img 
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
     height="200"
