@@ -68,7 +68,7 @@
 
 
 
-<div  align="center" style="margin:0; padding:0; line-height:0;margin-top:10px;">
+<div  align="center" style="margin:0; padding:0; line-height:0;margin-top:30;">
     <img 
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
