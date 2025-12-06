@@ -72,10 +72,22 @@
 
 <!-- STATS -->
 <div align="center">
+  <a href="https://github.com/cypher2213/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph"></a>
+</div>
+
+
+
+<div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=nightowl" 
+      width="800" 
+      alt="cypher2213-Contribution-graph" 
+      title="Contribution Graph"
+    >
   </a>
 </div>
+
 
 <table>
   <tr>
