@@ -66,10 +66,10 @@
 </div>
 
 
-<div style="margin-bottom:-25px;" align="center">
+<div style="margin-bottom:-25px" align="center">
   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="130"  alt="GIF">
 </div>
-<div align="center">
+<div align="center" style="margin-top:-25px" >
   <a href="#">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render">
   </a>
