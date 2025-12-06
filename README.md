@@ -76,15 +76,13 @@
     style="display:block; margin:0; padding:0;"
   >
 </div>
-<div align="center" style="margin:0; padding:0; line-height:0;">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3"
     style="display:block; margin:0; padding:0;">
-</div>
 
-
-
-
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render">
+  </a>
 
 <!-- STATS -->
 <div align="center">
