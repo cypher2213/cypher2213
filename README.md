@@ -76,20 +76,17 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
-  </a>
-</div>
-<div style="display: flex; align-items: flex-end; gap: 20px; justify-content: center;">
+<div style="display: flex; align-items: flex-end; justify-content: center; gap: 20px;">
+  <!-- Текст по центру -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=5000&color=84365B&center=true&vCenter=true&repeat=false&width=500&height=200&lines=Until+the+next+commit%E2%80%A6" 
        alt="Typing SVG" 
-       style="display: block;">
+       style="display: block; height: 200px;">
+
+  <!-- GIF справа -->
   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" 
-       style="width: auto; height: 200px; display: block;" 
-       alt="GIF">
+       style="display: block; height: 200px;">
 </div>
+
 
 
 
