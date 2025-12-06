@@ -79,7 +79,7 @@
 
 <div style="display: flex; align-items: flex-end; gap: 20px;">
   <!-- ASCII-арт -->
-  <pre style="margin:0; padding:0; font-family: monospace; font-size: 12px; line-height: 1; display: flex;">
+  <pre style="margin:0; padding:0; font-family: monospace; font-size: 12px; line-height: 1; display: flex; width: 600px;">
  __   ____  __    ____  ___  ___  _  _  __  __ _   __      __ ____ 
  / _\ (  _ \(  )  (  __)/ __)/ __)/ )( \(  )(  ( \ /  \    / /( __ \
 /    \ )   // (_/\ ) _)( (__( (__ ) __ ( )( /    /(  O )  ( (  (__ (
