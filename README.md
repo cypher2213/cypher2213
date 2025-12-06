@@ -89,7 +89,7 @@
       </pre>
     </td>
     <td>
-      <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" height="120" alt="GIF">
+      <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" height="120" width="auto" alt="GIF">
     </td>
   </tr>
 </table>
