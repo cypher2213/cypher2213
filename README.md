@@ -69,11 +69,20 @@
 
 
 
-<div align="center" style="margin-top:0; padding-top:0;">
-  <p><img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
-       width="130"
-       alt="GIF"></p><a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render"
-         style="display:block; margin:0;"></a></div>
+<div align="center" style="margin:0; padding:0; line-height:0;">
+  <span style="line-height:0;">
+    <img 
+      src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
+      width="130"
+      alt="GIF"
+      style="margin:0; padding:0;"
+    >
+  </span>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render"
+    style="display:block; margin:0; padding:0;"
+  >
+</div>
 
 
 
