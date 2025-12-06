@@ -87,14 +87,10 @@
   </li>
 </ul>
 
+<hr/>
 
-
-
-
-
-
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=tokyonight&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <img align="left" height="538px" src="https://cypher2213-github-readme-stats.vercel.app/api/top-langs?username=cypher2213&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
   <img width="575px" src="https://cypher2213-github-readme-stats.vercel.app/api?username=cypher2213&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
@@ -104,6 +100,12 @@
 <div align="center">
   <img width="570px" src="https://cypher2213-github-readme-stats.vercel.app/api/wakatime?username=cypher2213&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
 </div>
+
+
+
+
+
+
 
 
 
