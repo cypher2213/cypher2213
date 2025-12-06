@@ -66,8 +66,8 @@
 </div>
 
 
-<div align="center"><img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="130" alt="GIF" style="display:block;"></div>
-<div align="center"><a href="#"><img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render" style="display:block;"></a></div>
+<div align="center"><img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="130" alt="GIF" style="display:block;margin-bottom:0px;"></div>
+<div align="center"><a href="#"><img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render" style="display:block; argin-top:0px;"></a></div>
 
 
 <!-- STATS -->
