@@ -68,11 +68,10 @@
 
 
 
-
-<div align="center" style="margin-top:0; padding-top:0;">
-  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
+<img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
        width="130"
        alt="GIF">
+<div align="center" style="margin-top:0; padding-top:0;">
   <a href="#">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render"
          style="display:block; margin:0;">
