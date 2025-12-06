@@ -14,8 +14,9 @@
   </a>
 </p>
 
-
+<div align="center" style="margin:0; padding:0; line-height:0;margin-top:30px;"> <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="130" height="200" alt="GIF" > </div>
 <div align="center" style="margin-bottom: 20px;">
+  
   <h2 style="color:8A1E2A;">Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1C?logo=linkedin&logoColor=D4D7DB&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://t.me/nickiv_22" target="_blank"><img src="https://img.shields.io/badge/Telegram-1A1A1C?logo=telegram&logoColor=8A1E2A&style=for-the-badge" alt="Telegram" /></a>
