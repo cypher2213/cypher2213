@@ -32,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
   </a>
 </div>
+<br>
 
 <!-- Frontend -->
 <div align="center" style="margin-bottom: 20px;">
@@ -43,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </div>
+<br>
 
 <!-- Database -->
 <div align="center" style="margin-bottom: 20px;">
@@ -54,6 +56,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
 </div>
+<br>
 
 <!-- Tools -->
 <div align="center" style="margin-bottom: 20px;">
