@@ -82,7 +82,7 @@
         <li> ⚙️ I love diving deep into systems to understand how everything works.</li>  
         <li>💡 FastAPI and Python are my comfort zone for building backend solutions.</li>
         <li>💻 VSCode theme: <b>NightOwl</b>, perfect for late-night coding sessions.</li>
-        <li> I love Arlechino   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"  width="40" alt="GIF"></li>
+        <li> I love Arlechino   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"  width="100" alt="GIF"></li>
       </ul>
     </details>
   </li>
