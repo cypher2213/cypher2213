@@ -62,11 +62,10 @@
   <tr>
 </table>
 <p align="center">
-  <!-- Общая статистика -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha" />
-  
-  <!-- Топ языков -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=catppuccin_mocha" />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher2213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 
