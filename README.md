@@ -70,40 +70,43 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 <div style="
   background:#0d1117;
-  padding:20px;
-  border-radius:12px;
-  border:1px solid #30363d;
+  padding:22px;
+  border-radius:14px;
+  border:1px solid #2F5EB5;
+  max-width:750px;
+  margin:auto;
 ">
-  
-<ul>
+
+  <h2 align="center" style="color:#7AC8FF; margin-top:0;">About Me</h2>
+
+<ul style="color:#d9e2f1;">
+
   <li>🦉 Passionate about backend development, programming, and technology.</li>
-  <li>🔭 Backend developer focused on <b>FastAPI</b> + experience in NodeJs.</li>
-  <li>🧠 Code quality first: чисто, структурно, читаемо.</li>
-  <li>🎓 Fullstack graduate at <b>GoIT</b>.</li>
+
+  <li>🔭 Backend developer focused on <b style="color:#7AC8FF;">FastAPI</b>, with additional experience in NodeJs.</li>
+
+  <li>🧠 Code quality first — clean, structured, readable solutions.</li>
+
+  <li>🎓 Fullstack graduate at <b style="color:#A4D3FF;">GoIT</b>.</li>
+
   <li>
     <details>
-      <summary>🧩 More about me</summary>
+      <summary style="cursor:pointer; color:#7AC8FF;">🧩 More about me</summary>
       <ul>
-        <li>🦉 Night Owl by nature.</li>
-        <li>📚 CS student (2nd year).</li>
-        <li>⚙️ Люблю разбирать всё до винтика — как работает, почему работает и что движет системой.</li>
-        <li>💡 FastAPI / Python — моё пространство комфорта.</li>
-        <li>💻 VSCode theme: NightOwl</li>
+        <li>🦉 Night Owl — peak productivity late at night.</li>
+        <li>📚 2nd-year Computer Science student.</li>
+        <li>⚙️ Люблю разбирать системы до сути — как работает, почему работает и что определяет их поведение.</li>
+        <li>💡 FastAPI / Python — моя зона эффективности.</li>
+        <li>💻 VSCode theme: NightOwl.</li>
       </ul>
     </details>
   </li>
+
 </ul>
 
 </div>
-
-
-
-
-
-
 
 
 
