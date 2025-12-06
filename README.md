@@ -76,10 +76,18 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
-  __   ____  __    ____  ___  ___  _  _  __  __ _   __      __ ____ 
+
+<div style="display: flex; align-items: flex-end; gap: 20px;">
+  <!-- ASCII-арт -->
+  <pre style="margin:0; padding:0; font-family: monospace; font-size: 12px; line-height: 1; display: inline-block;">
+ __   ____  __    ____  ___  ___  _  _  __  __ _   __      __ ____ 
  / _\ (  _ \(  )  (  __)/ __)/ __)/ )( \(  )(  ( \ /  \    / /( __ \
 /    \ )   // (_/\ ) _)( (__( (__ ) __ ( )( /    /(  O )  ( (  (__ (
 \_/\_/(__\_)\____/(____)\___)\___)\_)(_/(__)\_)__) \__/    \_\(____/
+  </pre>
+
+  <!-- GIF справа -->
   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" 
        style="width: auto; height: 200px; display: block;" 
        alt="GIF">
+</div>
