@@ -55,7 +55,7 @@
 </div>
 
 <!-- Tools -->
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 50px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1E2A&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
   </a>
