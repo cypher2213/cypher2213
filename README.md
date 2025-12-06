@@ -84,6 +84,5 @@
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render">
   </a>
 </div>
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&theme=dark&hide_border=true)
 
 
