@@ -70,21 +70,18 @@
 
 <ul>
   <li>🦉 Passionate about backend development, programming, and technology.</li>
-  <li>🔭 Backend developer focused on <b>FastAPI</b>, with experience building structured, maintainable, and scalable systems.</li>
-  <li>💻 Solid experience in backend and fullstack development, with understanding of frontend to create integrated products.</li>
+  <li>🔭 Backend developer focused on <b>FastAPI</b>, with additional experience in NodeJs.</li>
   <li>🧠 Attention to detail and code quality is my priority — I strive for clean, reliable, and readable code in every project.</li>
-  <li>📚 Currently a 2nd-year <b>Computer Science</b> student, combining practical experience with strong theoretical foundations.</li>
-  <li>🌱 Continuously learning new technologies, architectures, and best practices in software engineering.</li>
   <li>🎓 Completed Fullstack courses at <b>GoIT</b>, gaining hands-on experience in real-world projects.</li>
-  <li>💻 VSCode theme: <b>NightOwl</b>, perfect for late-night coding sessions.</li>
   <li>
     <details>
-      <summary>🧩 Fun facts about me:</summary>
+      <summary>🧩 More info about me:</summary>
       <ul>
         <li>🦉 I’m a night owl — most productive late at night.</li>
-        <li>🤖 I love analyzing systems and optimizing performance, down to small technical details.</li>
-        <li>📝 I enjoy structuring my work and planning in a meticulous way.</li>  
+        <li>📚 Currently a 2nd-year <b>Computer Science</b> student, combining practical experience with strong theoretical foundations.</li>
+        <li> ⚙️ I love diving deep into systems to understand how everything works.</li>  
         <li>💡 FastAPI and Python are my comfort zone for building backend solutions.</li>
+        <li>💻 VSCode theme: <b>NightOwl</b>, perfect for late-night coding sessions.</li>
       </ul>
     </details>
   </li>
