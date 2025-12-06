@@ -22,7 +22,7 @@
 <p align="center" style="margin-bottom:0;">
   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="200" alt="GIF">
 </p>
-<table style="width:100%" align="center">
+<table style="width:100%; margin-top:0;" align="center">
   <tr>
     <th>Programming Languages</th>
     <td>
