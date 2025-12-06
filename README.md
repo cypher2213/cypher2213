@@ -82,6 +82,7 @@
         <li> ⚙️ I love diving deep into systems to understand how everything works.</li>  
         <li>💡 FastAPI and Python are my comfort zone for building backend solutions.</li>
         <li>💻 VSCode theme: <b>NightOwl</b>, perfect for late-night coding sessions.</li>
+        <li> I love Arlechino   <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"  width="40" alt="GIF"></li>
       </ul>
     </details>
   </li>
@@ -89,16 +90,6 @@
 
 <hr/>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
-<img align="left" height="538px" src="https://cypher2213-github-readme-stats.vercel.app/api/top-langs?username=cypher2213&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
-<div align="right">
-  <img width="575px" src="https://cypher2213-github-readme-stats.vercel.app/api?username=cypher2213&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="575px" src="https://streak-stats.demolab.com?user=cypher2213&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
-<div align="center">
-  <img width="570px" src="https://cypher2213-github-readme-stats.vercel.app/api/wakatime?username=cypher2213&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
-</div>
 
 
 
@@ -107,23 +98,6 @@
 
 
 
-
-<table>
-  <tr>
-    <!-- Колонка с ASCII-артом -->
-    <td>
-      <pre style="margin:0; padding:0; font-family: monospace; font-size:12px; line-height:1;">
- __   ____  __    ____  ___  ___  _  _  __  __ _   __      
- / _\ (  _ \(  )  (  __)/ __)/ __)/ )( \(  )(  ( \ /  \    
-/    \ )   // (_/\ ) _)( (__( (__ ) __ ( )( /    /(  O ) 
-\_/\_/(__\_)\____/(____)\___)\___)\_)(_/(__)\_)__) \__/   
-      </pre>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" height="120" width="auto" alt="GIF">
-    </td>
-  </tr>
-</table>
 
 
 
