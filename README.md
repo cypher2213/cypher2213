@@ -92,11 +92,20 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=7AC8FF&title_color=DCE5F2&line=1D3F8F&point=7AC8FF&theme=react" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
-  </a>
+
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=tokyonight&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<img align="left" height="538px" src="https://cypher2213-github-readme-stats.vercel.app/api/top-langs?username=cypher2213&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
+<div align="right">
+  <img width="575px" src="https://cypher2213-github-readme-stats.vercel.app/api?username=cypher2213&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="575px" src="https://streak-stats.demolab.com?user=cypher2213&theme=tokyonight&hide_border=true" />
 </div>
+<br/>
+<div align="center">
+  <img width="570px" src="https://cypher2213-github-readme-stats.vercel.app/api/wakatime?username=cypher2213&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+</div>
+
+
 
 <table>
   <tr>
