@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
 <p align="center" style="margin-bottom:0;">
-  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="200" alt="GIF">
+  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="200" height="200" alt="GIF">
 </p>
 <table style="width:100%; margin-top:0;" align="center">
   <tr>
