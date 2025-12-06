@@ -77,19 +77,28 @@
   </a>
 </div>
 
-<div style="display: flex; align-items: flex-end; gap: 20px;">
-  <!-- ASCII-арт -->
-  <pre style="margin:0; padding:0; font-family: monospace; font-size: 12px; line-height: 1; display: inline-block;">
+<div style="display: flex; gap: 20px; align-items: flex-end;">
+  
+  <div style="
+      font-family: monospace;
+      font-size: 12px;
+      line-height: 1;
+      white-space: pre;
+      margin: 0;
+      padding: 0;
+      display: inline-block;
+  ">
  __   ____  __    ____  ___  ___  _  _  __  __ _   __      __ ____ 
  / _\ (  _ \(  )  (  __)/ __)/ __)/ )( \(  )(  ( \ /  \    / /( __ \
 /    \ )   // (_/\ ) _)( (__( (__ ) __ ( )( /    /(  O )  ( (  (__ (
 \_/\_/(__\_)\____/(____)\___)\___)\_)(_/(__)\_)__) \__/    \_\(____/
-  </pre>
+  </div>
 
-  <!-- GIF справа -->
-  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" 
-       style="width: auto; height: 120px; display: block;" 
-       alt="GIF">
+  <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
+       style="height: 120px;"
+       alt="gif">
+
 </div>
+
 
 
