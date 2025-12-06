@@ -71,24 +71,33 @@
 </a>
 </p>
 
+<div style="
+  background:#0d1117;
+  padding:20px;
+  border-radius:12px;
+  border:1px solid #30363d;
+">
+  
 <ul>
   <li>🦉 Passionate about backend development, programming, and technology.</li>
-  <li>🔭 Backend developer focused on <b>FastAPI</b>, with additional experience in NodeJs.</li>
-  <li>🧠 Attention to detail and code quality is my priority — I strive for clean, reliable, and readable code in every project.</li>
-  <li>🎓 Completed Fullstack courses at <b>GoIT</b>, gaining hands-on experience in real-world projects.</li>
+  <li>🔭 Backend developer focused on <b>FastAPI</b> + experience in NodeJs.</li>
+  <li>🧠 Code quality first: чисто, структурно, читаемо.</li>
+  <li>🎓 Fullstack graduate at <b>GoIT</b>.</li>
   <li>
     <details>
-      <summary>🧩 More info about me:</summary>
+      <summary>🧩 More about me</summary>
       <ul>
-        <li>🦉 I’m a night owl — most productive late at night.</li>
-        <li>📚 Currently a 2nd-year <b>Computer Science</b> student, combining practical experience with strong theoretical foundations.</li>
-        <li> ⚙️ I love diving deep into systems to understand how everything works.</li>  
-        <li>💡 FastAPI and Python are my comfort zone for building backend solutions.</li>
-        <li>💻 VSCode theme: <b>NightOwl</b>, perfect for late-night coding sessions.</li>
+        <li>🦉 Night Owl by nature.</li>
+        <li>📚 CS student (2nd year).</li>
+        <li>⚙️ Люблю разбирать всё до винтика — как работает, почему работает и что движет системой.</li>
+        <li>💡 FastAPI / Python — моё пространство комфорта.</li>
+        <li>💻 VSCode theme: NightOwl</li>
       </ul>
     </details>
   </li>
 </ul>
+
+</div>
 
 
 
