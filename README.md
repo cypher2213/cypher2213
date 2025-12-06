@@ -90,7 +90,9 @@
   </li>
 </ul>
 
-<hr/>
+<div align="center">
+  <img src="https://cypher2213-github-readme-stats.vercel.app/api/wakatime?username=cypher2213&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+</div>
 
 
 
