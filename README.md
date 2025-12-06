@@ -74,7 +74,7 @@
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
     alt="GIF"
-    style="display:block; margin:0; padding:0;"
+    style="display:block; margin:0; padding:0;clip-path: inset(10px 0 0 0);"
   >
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render"
