@@ -28,7 +28,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
   </a>
 </div>
 
