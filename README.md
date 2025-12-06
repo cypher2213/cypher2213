@@ -68,12 +68,12 @@
 
 
 
-<div  align="center" style="margin:0; padding:0; line-height:0;">
+<div  align="center" style="margin:0; padding:0; line-height:0;margin-top:10px;">
     <img 
     src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif"
     width="130"
     alt="GIF"
-    style="display:block; margin:0; padding:0;margin-top:10px;"
+    style="display:block; margin:0; padding:0;"
   >
 </div>
 <div align="center" style="margin:0; padding:0; line-height:0;">
