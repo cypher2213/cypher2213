@@ -89,7 +89,6 @@
 
 <hr/>
 
-<img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <img align="left" height="538px" src="https://cypher2213-github-readme-stats.vercel.app/api/top-langs?username=cypher2213&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
