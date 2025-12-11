@@ -1,98 +1,84 @@
 <p align="center">
-  <img src="IMG_4033.PNG" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
+  <img src="1de317f6-867e-48c8-b371-6f91583d2c4d.png" width="150" alt="Python" style="vertical-align: middle; margin-right: 10px;">
 </p>
-
 <p align="center" style="margin:0;">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=8A1E2A&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=7AC8FF&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" style="margin-top:-20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4D7DB&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=I'm+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English:+B2+-+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F5EB5&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
   </a>
 </p>
 
-<div align="center" style="margin:0; padding:0; line-height:0;margin-top:30px;"> <img src="https://media.tenor.com/NZPTKuyTWQAAAAAi/genshin-genshin-impact.gif" width="130" height="200" alt="GIF" > </div>
-<div align="center" style="margin-bottom: 20px;">
-  
-  <h2 style="color:8A1E2A;">Contact me:</h2>
-  <a href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1C?logo=linkedin&logoColor=D4D7DB&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://t.me/nickiv_22" target="_blank"><img src="https://img.shields.io/badge/Telegram-1A1A1C?logo=telegram&logoColor=8A1E2A&style=for-the-badge" alt="Telegram" /></a>
-</div>
-<br>
-<!-- Backend -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1E2A&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
-  </a>
-</div>
-<br>
 
-<!-- Frontend -->
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1E2A&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
+  <h2 style="color:#7AC8FF;">Contact me:</h2>
+  <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
+    <img src="https://img.shields.io/badge/LinkedIn-7AC8FF?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://t.me/nickiv_22" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
-<br>
-
-<!-- Database -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1E2A&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-  </a>
-</div>
-<br>
-
-<!-- Tools -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1E2A&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,docker" />
-  </a>
-</div>
-<br>
-<a href="#">
-  <img 
-    width="100%" 
-    style="display:block; height:2px;" 
-    src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render"
-  >
+<table style="width:100%" align="center">
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <th>Backend Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/-React-00599C?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+</table>
+<p align="center">
+<a href="https://github.com/cypher2213">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher2213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<!-- STATS -->
-<div align="center">
-  <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=1A1A1C&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=8A1E2A&title_color=D4D7DB&line=8A1E2A&point=D4D7DB&theme=high-contrast" width="800">
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A1E2A&height=3&section=header&render">
-  </a>
-</div>
-<br><br>
-<p align="center" style="margin-top:10px;">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=cypher2213&theme=bear&showIcons=true">
-    <img alt="Nikita Ivashchenko's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cypher2213?theme=bear" />
-  </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
