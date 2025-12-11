@@ -19,6 +19,7 @@
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
+<br>
 <table style="width:100%" align="center">
   <tr>
     <th>Programming Languages</th>
@@ -68,6 +69,7 @@
   </tr>
   <tr>
 </table>
+<br>
 <p align="center">
 <a href="https://github.com/cypher2213">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher2213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/></a></p>
