@@ -64,10 +64,9 @@
 <p align="center">
 <a href="https://github.com/cypher2213">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher2213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=algolia"/></a>
 </p>
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 
 
 
