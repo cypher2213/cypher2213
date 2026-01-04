@@ -8,7 +8,7 @@ Mr. Problem-Solver & Experimenter ⚡
 <!-- Contacts -->
 <h3 align="center">You can contact me here</h3>
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://github.com/f0rd0101">
+  <a href="https://github.com/cypher2213">
     <img src="https://img.shields.io/badge/GitHub-272822?logo=github&logoColor=E6DB74&style=for-the-badge" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
     <img src="https://img.shields.io/badge/LinkedIn-272822?logo=linkedin&logoColor=A6E22E&style=for-the-badge" alt="LinkedIn" /></a>
