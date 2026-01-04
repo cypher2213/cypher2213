@@ -98,8 +98,8 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
   <summary><b>📊 Metrics</b></summary>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=monokai" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=monokai" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=aura" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=aura" />
 </p>
 
 </details>
