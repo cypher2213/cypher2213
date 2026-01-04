@@ -30,7 +30,7 @@ Mr. Problem-Solver & Experimenter ⚡
 <details>
   <summary><b>👤 About me</b></summary>
     <p>
-      <img align="right" width="250" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="NEO" />
+      <img align="right" width="250" src="image001.jpg" alt="NEO" />
       
 <blockquote>
 
