@@ -85,7 +85,7 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
   </kbd>
   </kbd>
   <kbd style="padding:10px;">
-    <kbd>Database</kbd>
+    <kbd>Tools</kbd>
     <br><br>
     <a href="https://skillicons.dev">
     <img width="110px"  src="https://skillicons.dev/icons?i=git,postman,docker" />
