@@ -9,11 +9,11 @@ Mr. Problem-Solver & Experimenter ⚡
 <h3 align="center">You can contact me here</h3>
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/cypher2213">
-    <img src="https://img.shields.io/badge/GitHub-272822?logo=github&logoColor=E6DB74&style=for-the-badge" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/GitHub-272822?logo=github&logoColor=b89b26&style=for-the-badge" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
     <img src="https://img.shields.io/badge/LinkedIn-272822?logo=linkedin&logoColor=A6E22E&style=for-the-badge" alt="LinkedIn" /></a>
  <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-272822?logo=telegram&logoColor=A6E22E&style=for-the-badge" alt="Telegram" /></a>
+    <img src="https://img.shields.io/badge/Telegram-272822?logo=telegram&logoColor=4d608b&style=for-the-badge" alt="Telegram" /></a>
 </div>
 
 
@@ -40,7 +40,7 @@ I also participated in Meduzzen Fullstack Internship as Python/FastAPI developer
 
 I am a Computer Science student in Sumy State University 💻🧬 (second year).
 
-My favorite code editor theme is Monokai
+My favorite code editor theme is Ariake Dark
 
 If you ask me whether I prefer backend or frontend, I would say that backend development is much closer to me, because dealing with data and data flows suits my mindset better, though I can use frontend when it’s needed as a supporting part.
 
