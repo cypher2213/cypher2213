@@ -96,12 +96,9 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
 <!-- Metrics -->
 <details>
   <summary><b>📊 Metrics</b></summary>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=aura" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=aura" />
-</p>
-
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-bento.vercel.app/stats/cypher2213?theme=dark" style="width: 60%;" />
+</div>
 </details>
 
 <!-- Snake -->
