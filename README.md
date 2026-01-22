@@ -36,7 +36,7 @@ Mr. Problem-Solver & Experimenter ⚡
 
 I'm a Backend developer based in Ukraine, i have completed GoIT FullStack Courses that gave me understanding of Node.js and React Developing principles. After that I've studied Laravel/Node.js by myself (for freelance purposes). 
 
-I also participated in Meduzzen Fullstack Internship as Python/FastAPI developer. And that's the moment when i fell in love with Python 🐍💚
+I also participated in Meduzzen Fullstack Internship as Python/FastAPI developer. And that's the moment when i fell in love with Python and it became quite a good addition to my Node stack 🐍💚
 
 I am a Computer Science student in Sumy State University 💻🧬 (second year).
 
